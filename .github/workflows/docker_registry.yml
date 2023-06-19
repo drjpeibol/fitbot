@@ -3,7 +3,7 @@ name: Push docker image to registry (hub.docker.com)
 on:
   push:
     branches:
-      - 'master'
+      - 'Pablo'
 
 jobs:
   docker:
